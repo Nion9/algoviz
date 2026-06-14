@@ -32,7 +32,7 @@ Understand how algorithms work by seeing them run step by step, right in your br
 | Visualization  | HTML5 Canvas API                                |
 | Hosting        | [Vercel](https://vercel.com)                     |
 
-
+```bash
 ## 📁 Project Structure
 algoviz/
 ├── app/                   # Next.js App Router pages
@@ -68,10 +68,7 @@ algoviz/
 │   └── index.ts           # Shared TypeScript types
 ├── public/                # Static assets (demo gif, favicon)
 └── styles/                # Global Tailwind styles
-
-
-
-
+```
 
 
 ## 🚀 Getting Started
@@ -89,5 +86,5 @@ npm run dev
 
 # 4. Open in your browser
 open http://localhost:3000
-
+```
 
