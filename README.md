@@ -32,8 +32,9 @@ Understand how algorithms work by seeing them run step by step, right in your br
 | Visualization  | HTML5 Canvas API                                |
 | Hosting        | [Vercel](https://vercel.com)                     |
 
-```bash
+
 ## 📁 Project Structure
+```bash
 algoviz/
 ├── app/                   # Next.js App Router pages
 │   ├── page.tsx           # Homepage — category grid
