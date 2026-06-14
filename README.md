@@ -32,22 +32,8 @@ Understand how algorithms work by seeing them run step by step, right in your br
 | Visualization  | HTML5 Canvas API                                |
 | Hosting        | [Vercel](https://vercel.com)                     |
 
-## 🚀 Getting Started
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/yourusername/algoviz.git
-cd algoviz
-
-# 2. Install dependencies
-npm install
-
-# 3. Run the development server
-npm run dev
-
-# 4. Open in your browser
-open http://localhost:3000
-
+## 📁 Project Structure
 algoviz/
 ├── app/                   # Next.js App Router pages
 │   ├── page.tsx           # Homepage — category grid
@@ -82,3 +68,26 @@ algoviz/
 │   └── index.ts           # Shared TypeScript types
 ├── public/                # Static assets (demo gif, favicon)
 └── styles/                # Global Tailwind styles
+
+
+
+
+
+
+## 🚀 Getting Started
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/yourusername/algoviz.git
+cd algoviz
+
+# 2. Install dependencies
+npm install
+
+# 3. Run the development server
+npm run dev
+
+# 4. Open in your browser
+open http://localhost:3000
+
+
