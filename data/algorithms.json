@@ -155,4 +155,20 @@
     "difficulty": "intermediate",
     "phase": 1
   }
+  {
+  "id": "selection-sort",
+  "name": "Selection sort",
+  "category": "sorting",
+  "categoryLabel": "Sorting & searching",
+  "description": "Repeatedly selects the smallest element from the unsorted portion and swaps it.",
+  "timeComplexity": {
+    "best": "O(n²)",
+    "average": "O(n²)",
+    "worst": "O(n²)"
+  },
+  "spaceComplexity": "O(1)",
+  "tags": ["sorting", "beginner"],
+  "difficulty": "beginner",
+  "phase": 1
+  }
 ]
